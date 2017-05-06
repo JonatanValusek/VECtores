@@ -18,5 +18,11 @@ int main()
         printf("%d\n",*(pvec+i));
     }
 
+    for(int i =0; i < 5; i++)
+    {
+        printf("INGRESE UN NUMERO");
+        scanf("%d\n",*(pvec+i));
+    }
+
     return 0;
 }
