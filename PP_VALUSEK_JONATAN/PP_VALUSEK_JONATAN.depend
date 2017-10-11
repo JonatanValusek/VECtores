@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1506990174 source:d:\pp_valusek_jonatan\lib.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+	"lib.h"
+
+1453762398 d:\pp_valusek_jonatan\utn.h
+
+1506989378 d:\pp_valusek_jonatan\lib.h
+
+1506990174 source:d:\pp_valusek_jonatan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lib.h"
+
+1453762398 source:d:\pp_valusek_jonatan\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1507751091 source:c:\users\avalusek\desktop\utn\pp_valusek_jonatan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lib.h"
+
+1506975826 c:\users\avalusek\desktop\utn\pp_valusek_jonatan\utn.h
+
+1507752193 c:\users\avalusek\desktop\utn\pp_valusek_jonatan\lib.h
+
+1506975828 source:c:\users\avalusek\desktop\utn\pp_valusek_jonatan\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1507752193 source:c:\users\avalusek\desktop\utn\pp_valusek_jonatan\lib.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+	"lib.h"
+
